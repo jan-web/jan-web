@@ -31,3 +31,6 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yan-web/)](https://www.linkedin.com/in/yan-web/) 
 [![Facebook Badge](https://img.shields.io/badge/-0072b1?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/janshatskiy/)](https://www.facebook.com/janshatskiy/)
 [![Github Badge](https://img.shields.io/badge/-grey?style=flat&logo=github&logoColor=white&link=https://github.com/jan-web)](https://www.github.com/jan-web/) ![Profile views](https://gpvc.arturio.dev/jan-web)
+
+### Some of my Github Stats
+[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=jan-web&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/jan-web/github-readme-stats)
