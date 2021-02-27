@@ -1,4 +1,4 @@
-## Hello there 👋, I'm Yan Shatskiy! 🦦
+## Hello there 😄 👋, I'm Yan Shatskiy! 🦦 👯
 
 Here are some ideas to get you started:
 
