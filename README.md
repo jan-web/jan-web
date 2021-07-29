@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱  I’m currently learning Vue 3
+- 🌱  I’m currently learning React
 
 ### Languages and Tools:
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <br>
 
 ### Get in touch:
-[![Linkedin Badge](https://img.shields.io/badge/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yan-web/)](https://www.linkedin.com/in/yan-web/) 
+[![Linkedin Badge](https://img.shields.io/badge/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yan-web/)](https://www.linkedin.com/in/yan-web/)
 [![Facebook Badge](https://img.shields.io/badge/-0072b1?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/janshatskiy/)](https://www.facebook.com/janshatskiy/)
 [![Github Badge](https://img.shields.io/badge/-grey?style=flat&logo=github&logoColor=white&link=https://github.com/jan-web)](https://www.github.com/jan-web/) ![Profile views](https://gpvc.arturio.dev/jan-web)
 
