@@ -16,6 +16,9 @@
   min-height: 30px;
 }
 
+
+
+
 .header__top-wrapper {
   display: flex;
   justify-content: center;
@@ -24,7 +27,7 @@
   /* padding-bottom: 200px; */
 }
 .header__top-img {
-  margin-right: 72px;
+  margin-right: 61px;
   width: 162px;
 }
 
@@ -83,11 +86,7 @@ body {
   overflow-y: scroll;
 }
 
-@media (min-width: 768px) {
-  body {
-    font-size: 1.25rem;
-  }
-}
+
 
 a {
   color: var(--color-link);
@@ -108,34 +107,16 @@ header {
   background-size: cover;
 }
 
-@media (min-width: 768px) {
-  header {
-    top: -10.5rem;
-  }
-}
+
 
 header>* {
   position: relative;
   z-index: 10;
 }
 
-/* .experiment-ui {
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  width: 1.5rem;
-  height: 1.5rem;
-} */
+
 
 header h1 {
-  /* position: relative; */
-  /* left: 50%; */
-  /* z-index: 2; */
-  /* display: inline-block; */
-  /* margin: 0 auto; */
-  /* transform: translateX(-50%); */
-  /* font-size: inherit; */
-  /* text-align: center; */
   margin-top: -20px;
 }
 
@@ -165,13 +146,6 @@ header nav {
   margin-left: -252px;
   padding-bottom: 16px;
 }
-
-@media (min-width: 768px) {
-  header nav {
-    line-height: 1.5rem;
-  }
-}
-
 header nav a {
   position: relative;
   display: block;
@@ -179,13 +153,6 @@ header nav a {
   margin: 0 0.125rem;
   background-color: var(--color-main);
 }
-
-@media (min-width: 768px) {
-  header nav a {
-    height: 1.5rem;
-  }
-}
-
 header nav a.current,
 header nav a.current-parent {
   background-color: #000;
@@ -196,16 +163,6 @@ header nav a span {
   padding: 0 0.5rem;
   line-height: 1.25rem;
 }
-
-@media (min-width: 768px) {
-  header nav a span {
-    font-size: 0.75rem;
-    padding: 0 0.625rem;
-    line-height: 1.5rem;
-  }
-}
-
-
 
 header a,
 footer a {
@@ -274,14 +231,12 @@ footer>* {
 
 footer>*:last-child {
   flex: 0 1 10rem;
-  padding-left: 34px;
+  margin-left: -34px;
 }
 
 
 footer .social {
-  /* display: flex; */
-  /* margin-left: calc(50% - 55px); */
-  padding-top: 6px;
+  padding-top: 8px;
   margin-right: 462px;
 }
 
@@ -337,12 +292,6 @@ header.stuck:after {
   height: 1rem;
 }
 
-@media (min-width: 768px) {
-  header.stuck:after {
-    height: 1.5rem;
-  }
-}
-
 header nav a {
   transition: box-shadow 200ms linear;
   box-shadow: 0 0 0 -1px #0097ee inset;
@@ -391,12 +340,9 @@ header .background:after {
   filter: blur(16px);
 }
 
-
-
 .cv-projects {
   margin: 0;
 }
-
 
 .cv-projects>li {
   padding: 3rem 0;
@@ -492,3 +438,85 @@ svg {
 }
 
 
+
+@media (min-width: 768px) {
+  body {
+    font-size: 1.25rem;
+  }
+  header {
+    top: -10.5rem;
+  }
+  header nav {
+    line-height: 1.5rem;
+  }
+  header nav a {
+    height: 1.5rem;
+  }
+  header nav a span {
+    font-size: 0.75rem;
+    padding: 0 0.625rem;
+    line-height: 1.5rem;
+  }
+  header.stuck:after {
+    height: 1.5rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .header__top-wrapper {
+    margin-left: 0;
+
+  }
+  header nav {
+      margin-left: -163px;
+    }
+
+  .content {
+    max-width: 540px;
+  }
+  footer .social {
+    padding-top: 6px;
+    margin-right: 270px;
+  }
+  footer>*:last-child {
+    margin-left: 50px;
+  }
+  footer .social {
+    margin-right: 200px;
+}
+}
+
+@media (max-width: 576px) {
+  .content {
+    max-width: auto;
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .project__title {
+    width: 100%;
+  }
+
+.header__top-img {
+  width: 33%;
+  margin-left: 12px;
+  margin-right: 24px;
+}
+
+header h1 .name {
+  font-size: 1.2rem;
+  line-height: 1rem;
+  margin-top: 43px;
+  margin-bottom: 10px;
+}
+header h1 .what {
+  font-size: 0.9rem;
+  line-height: 140%;
+}
+header nav {
+  margin-left: -39px;
+}
+footer .social {
+  margin-right: -24px;
+}
+}
