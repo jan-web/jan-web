@@ -11,16 +11,9 @@
 
 - 📄 Know about my experiences [CV](https://jan-web.github.io/jan-web/)
 
-- 📫 Reach me by [LinkedIn]([linkedin-link](https://www.linkedin.com/in/yan-web/)), [email](mailto:janshatskiy@gmail.com)
+- 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/yan-web/), [email](mailto:janshatskiy@gmail.com)
 
 - 🌍 I speak English and Spanish
-
-## Hello there  ☘️, I'm Yan Shatskiy! 🐯
-
-Here are some ideas to get you started:
-
-- 🌱  I’m currently learning React and Vue
-- 🌱  I’m currently learning React and Vue
 
 ### Languages and Tools:
 
