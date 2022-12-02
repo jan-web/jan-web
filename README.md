@@ -1,3 +1,17 @@
+<div id="header" align="center">
+	<h1>Hi there, I'm Yan Shatskiy</h1>
+	<h3>React Developer</h3>
+</div>
+<div id="socials" align="center">
+	<a href="[linkedin-url](https://www.linkedin.com/in/yan-web/)">
+		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+	</a>
+</div>
+### About me
+- 📄 Know about my experiences [CV]([cv-link](https://jan-web.github.io/jan-web/))
+- 📫 Reach me by [LinkedIn]([linkedin-link](https://www.linkedin.com/in/yan-web/)), [email](mailto:janshatskiy@gmail.com)
+- 🌍 I speak English and Spanish
+
 ## Hello there  ☘️, I'm Yan Shatskiy! 🐯
 
 Here are some ideas to get you started:
