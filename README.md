@@ -8,8 +8,11 @@
 	</a>
 </div>
 ### About me
+
 - 📄 Know about my experiences [CV]([cv-link](https://jan-web.github.io/jan-web/))
+
 - 📫 Reach me by [LinkedIn]([linkedin-link](https://www.linkedin.com/in/yan-web/)), [email](mailto:janshatskiy@gmail.com)
+
 - 🌍 I speak English and Spanish
 
 ## Hello there  ☘️, I'm Yan Shatskiy! 🐯
