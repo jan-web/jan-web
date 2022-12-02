@@ -8,6 +8,7 @@
 	</a>
 </div>
 ### About me
+
 - 🌱  I’m currently learning React and Vue
 - 🌱  I’m currently learning React and Vue
 
