@@ -1,6 +1,6 @@
 <div id="header" align="center">
 	<h1>Hi there, I'm Yan Shatskiy</h1>
-	<h3>React Developer</h3>
+	<h3>React Frontend Developer</h3>
 </div>
 <div id="socials" align="center">
 	<a href="[linkedin-url](https://www.linkedin.com/in/yan-web/)">
