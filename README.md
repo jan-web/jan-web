@@ -7,12 +7,8 @@
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 	</a>
 </div>
-### Languages and Tools:
-
 
 ### About me:
-### Languages and Tools:
-
 
 - 📄 Know about my experiences [CV](https://jan-web.github.io/jan-web/)
 
