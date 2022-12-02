@@ -8,14 +8,8 @@
 	</a>
 </div>
 ### About me
-
-- 🌱  I’m currently learning React and Vue
-- 🌱  I’m currently learning React and Vue
-
 - 📄 Know about my experiences [CV]([cv-link](https://jan-web.github.io/jan-web/))
-- 
 - 📫 Reach me by [LinkedIn]([linkedin-link](https://www.linkedin.com/in/yan-web/)), [email](mailto:janshatskiy@gmail.com)
-- 
 - 🌍 I speak English and Spanish
 
 ## Hello there  ☘️, I'm Yan Shatskiy! 🐯
